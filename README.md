@@ -2,7 +2,7 @@
 ## Rahul here ;)
 
 🔭 Currently working on building some personal projects which will help me land a job. <br/>
-🌱 Currently learning DB <br/>
+🌱 Learning DB from the ground up. <br/>
 
 <!--
 **RN0826/RN0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
