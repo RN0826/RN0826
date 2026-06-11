@@ -2,7 +2,7 @@
 ## Rahul here ;)
 
 🔭 Currently working on building some personal projects which will help me land a job. <br/>
-🌱 Learning DB from the ground up. <br/>
+🌱 Learning Django <br/>
 
 <!--
 **RN0826/RN0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
